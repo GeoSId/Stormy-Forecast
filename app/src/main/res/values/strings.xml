@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stormy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_dialog">Sorry No internet</string>
+    <string name="error_message">TryAgain</string>
+    <string name="error_ok_button">Ok</string>
+    <string name="network_unavailable">NoNetwork</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="valueWillBe">it will be:</string>
+    <string name="at">At</string>
+    <string name="GpsOn">GPS is Enabled in your device</string>
+    <string name="EnableGps">Go to Settings Page To Enable GPS</string>
+    <string name="ErrorGpsOff">GPS is disabled in your device. Would you like to enable it?</string>
+
+    <string name="Cancel">Cancel</string>
+    <string name="DefaultDots">--</string>
+    <string name="TextsLoading">....</string>
+    <string name="default_city">City</string>
+    <string name="TextDefayltCurrentWeather">Getting current weather...</string>
+    <string name="humidity">Humidity</string>
+    <string name="rain">Rain?</string>
+    <string name="temp">temp</string>
+    <string name="degree">degree</string>
+    <string name="refresh">refresh</string>
+    <string name="city">city</string>
+    <string name="country">country</string>
+    <string name="UnitedKingdom">GB</string>
+    <string name="time">TIME</string>
+    <string name="weather">weather</string>
+
+
+</resources>
