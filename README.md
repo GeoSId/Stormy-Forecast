@@ -9,6 +9,7 @@ Android App displaying weather. Android student project...
  
  
  Required dependencies: 
+    
     compile 'com.jakewharton:butterknife:8.4.0'
     
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
